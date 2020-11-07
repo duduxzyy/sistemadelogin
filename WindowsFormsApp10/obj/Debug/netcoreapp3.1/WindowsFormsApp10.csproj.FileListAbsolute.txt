@@ -1,0 +1,17 @@
+C:\Users\duds1\source\repos\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\netcoreapp3.1\WindowsFormsApp10.exe
+C:\Users\duds1\source\repos\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\netcoreapp3.1\WindowsFormsApp10.deps.json
+C:\Users\duds1\source\repos\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\netcoreapp3.1\WindowsFormsApp10.runtimeconfig.json
+C:\Users\duds1\source\repos\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\netcoreapp3.1\WindowsFormsApp10.runtimeconfig.dev.json
+C:\Users\duds1\source\repos\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\netcoreapp3.1\WindowsFormsApp10.dll
+C:\Users\duds1\source\repos\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\netcoreapp3.1\WindowsFormsApp10.pdb
+C:\Users\duds1\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\netcoreapp3.1\WindowsFormsApp10.csprojAssemblyReference.cache
+C:\Users\duds1\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\netcoreapp3.1\WindowsFormsApp10.Form1.resources
+C:\Users\duds1\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\netcoreapp3.1\WindowsFormsApp10.Form2.resources
+C:\Users\duds1\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\netcoreapp3.1\WindowsFormsApp10.csproj.GenerateResource.cache
+C:\Users\duds1\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\netcoreapp3.1\WindowsFormsApp10.AssemblyInfoInputs.cache
+C:\Users\duds1\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\netcoreapp3.1\WindowsFormsApp10.AssemblyInfo.cs
+C:\Users\duds1\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\netcoreapp3.1\WindowsFormsApp10.csproj.CoreCompileInputs.cache
+C:\Users\duds1\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\netcoreapp3.1\WindowsFormsApp10.dll
+C:\Users\duds1\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\netcoreapp3.1\WindowsFormsApp10.pdb
+C:\Users\duds1\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\netcoreapp3.1\WindowsFormsApp10.genruntimeconfig.cache
+C:\Users\duds1\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\netcoreapp3.1\WindowsFormsApp10.Properties.Resources.resources
